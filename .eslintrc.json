@@ -17,7 +17,8 @@
     "next/core-web-vitals",
     "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended",
-    "standard-with-typescript"
+    "standard-with-typescript",
+    "prettier"
   ],
   "plugins": [
     "@typescript-eslint",
